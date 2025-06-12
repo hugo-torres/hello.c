@@ -38,5 +38,3 @@ Hi! I'm Hugo Torres, a 19-year-old Computer Science student (freshman) and self-
  📫 Contact:
  📧:hugolimatorres@gmail.com
  📱:+1(860)382-5440
-
-Feel free to explore my repositories or connect with me here on GitHub!
