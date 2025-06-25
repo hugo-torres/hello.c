@@ -5,14 +5,14 @@ Hi! I'm Hugo Torres, a 19-year-old Computer Science student (freshman) and self-
 🎓 Education & Courses
 
 - 🎓 Computer Science – Current undergraduate student  
-- 🧠 CS50 - Harvard: Introduction to Computer Science  
-- 🌐 Curso em Vídeo – HTML & CSS  
+- 🧠 CS50 - Harvard: Introduction to Computer Science   
 - 🐍 Curso em Vídeo – Python  
 - 🧩 Curso em Vídeo – Algorithms and logic of Programming
+- 🌐 Curso em Vídeo – HTML & CSS 
 
 💡 Skills
 
-- 💻 Languages: Python (basic), HTML, CSS  
+- 💻 Languages: Python (intermediate), HTML, CSS  
 - 🧠 Solid foundation in programming logic  
 - 🌱 Currently working on small exercises and deepening my Python knowledge  
 
